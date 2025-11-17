@@ -28,18 +28,13 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 
 **	Design of microstrip line terminated with quarter wave line and the desired load**
 
-
 <img width="642" height="184" alt="image" src="https://github.com/user-attachments/assets/4fcf36a6-131b-45e0-b569-8f50565faf0e" />
-
 
 **	S11 characteristics of the microstrip line terminated with quarter wave line and the desired load**
 
-
 <img width="558" height="162" alt="image" src="https://github.com/user-attachments/assets/863dbdd2-254c-4165-b167-3bdbb331efc7" />
 
-
 **Conclusion:**
-
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
 
 
